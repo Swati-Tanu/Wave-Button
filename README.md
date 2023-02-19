@@ -21,7 +21,11 @@ This project is a static page with an animation in it built using only CSS.
 
 A short video demo of the complete project: 
 
-https://user-images.githubusercontent.com/112818778/219954748-b7c19088-f0eb-4c98-8271-475018e80442.mp4
+
+https://user-images.githubusercontent.com/112818778/219955380-af34bb3a-3a6f-40ad-9f5b-156891eea01c.mp4
+
+
+
 
 ## Deployment
 
